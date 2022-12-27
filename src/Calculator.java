@@ -47,6 +47,7 @@ public class Calculator {
                 break;
         }
 
+        //---Output---
         // Output the result
         System.out.println("The Result: " + result);
     }
