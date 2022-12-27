@@ -48,11 +48,10 @@ public class Calculator {
         }
 
         // Output the result
-        System.out.println("The Result: ");
-        System.out.println(result);
-
+        System.out.println("The Result: " + result);
     }
 
+    // Running the code :)
     public static void main(String[] args) {
         calculator();
     }
